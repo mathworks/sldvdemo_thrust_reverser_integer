@@ -1,0 +1,2 @@
+# sldvdemo_thrust_reverser_integer
+This example shows you how to use [Simulink Design Verifier (TM)](https://www.mathworks.com/products/simulink-design-verifier.html) and the **Model Slicer** tool within [Simulink Check (TM)](https://www.mathworks.com/products/simulink-check.html) to perform property proving to [formally verify](https://www.mathworks.com/discovery/formal-verification.html) safety requirements.
